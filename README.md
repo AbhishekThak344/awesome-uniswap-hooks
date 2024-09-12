@@ -33,6 +33,8 @@ Uniswap v4 Hooks -- also known simply as hooks -- are specially designed contrac
 
 _These resources will help you get started with Uniswap v4 hooks._
 
+_Let's Begin_
+
 - [Uniswap's v4 Announcement](https://blog.uniswap.org/uniswap-v4): Official announcement article from Uniswap detailing their vision for v4, including the introduction of hooks.
 - [Uniswap v4 Developer Documents](https://docs.uniswapfoundation.org/): Official V4 Developer Documents from Uniswap Foundation, covering topics including how developer would begin to start building out hooks on local testnets in order to start testing out hook designs.
 - [Core smart contracts of Uniswap v4](https://github.com/Uniswap/v4-core): The core smart contracts of Uniswap v4, highlighting `v4-core`'s singleton-style architecture, the management of all pool state in `PoolManager.sol`, and use of hook contracts to implement callbacks in the lifecycle of pool actions.
